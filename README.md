@@ -12,3 +12,7 @@ This project was inspired by my own experience of struggling to start learning p
 
 ## You can view and play the project here:  
 https://scratch.mit.edu/projects/1295694216
+
+## License
+This project is for educational purposes. (CS0 2026)  
+Please do not copy or reuse without giving credit.
