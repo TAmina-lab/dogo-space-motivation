@@ -9,3 +9,6 @@ A simple Scratch project that provides motivational messages for beginner progra
 
 ## About
 This project was inspired by my own experience of struggling to start learning programming.
+
+## You can view and play the project here:  
+https://scratch.mit.edu/projects/1295694216
